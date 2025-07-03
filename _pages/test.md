@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "test"
+title: "Test"
 permalink: /test/
 author_profile: true
 redirect_from:
